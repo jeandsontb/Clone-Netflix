@@ -13,9 +13,9 @@ FLIX - É um projeto clone netflix, esse projeto foi desenvolvido utilizando ape
 ### Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="Flix" title="#Flix" src="" width="400px">
+  <img alt="Flix" title="#Flix" src="https://raw.githubusercontent.com/jeandsontb/Clone-Netflix/main/screen/html1.png" width="400px">
 
-  <img alt="Flix" title="#Flix" src="" width="400px">
+  <img alt="Flix" title="#Flix" src="https://raw.githubusercontent.com/jeandsontb/Clone-Netflix/main/screen/html2.png" width="400px">
 </p>
 
 ## 🛠 Tecnologias
