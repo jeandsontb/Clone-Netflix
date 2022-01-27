@@ -1,0 +1,10 @@
+@media screen and (max-width: 768px) {
+  header .container {
+    flex-direction: column;
+  }
+
+  main .movie_principal .box_buttons .button {
+    margin-top: 5px;
+    width: 100%;
+  }
+}

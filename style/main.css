@@ -89,3 +89,7 @@ section .box_movie {
   width: 100%;
   display: block;
 }
+
+.carrousel_movies {
+  margin-top: 50px;
+}
