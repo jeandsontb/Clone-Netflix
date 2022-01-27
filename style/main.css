@@ -12,6 +12,7 @@
 body {
   background: var(--black);
   font-family: 'Times New Roman', Times, serif;
+  color: #FFF;
 }
 
 header .container {
@@ -36,4 +37,23 @@ header nav a {
 
 header nav a:hover {
   color: #FFF;
+}
+
+main .movie_principal {
+  font-size: 16px;
+  background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)100%), url('/img/header.jpg');
+  height: 400px;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+main .movie_principal .title {
+  font-size: 48px;
+}
+
+main .movie_principal .description {
+  margin-bottom: 40px;
 }
