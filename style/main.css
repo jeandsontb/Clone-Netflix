@@ -51,9 +51,30 @@ main .movie_principal {
 }
 
 main .movie_principal .title {
+  margin-top: 10%;
   font-size: 48px;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 main .movie_principal .description {
   margin-bottom: 40px;
+  margin-top: 10px;
+}
+
+main .movie_principal .box_buttons .button {
+  background-color: rgba(0,0,0,.50);
+  border: 1px solid rgba(0,0,0,.50);
+  color: #FFF;
+  padding: 15px 30px;
+  font-size: 12px;
+  margin-right: 15px;
+  cursor: pointer;
+  border-radius: 2px;
+  transition: all ease 0.3s;
+}
+
+main .movie_principal .box_buttons .button:hover {
+  border: 1px solid #FFF;
+  background-color: #FFF;
+  color: var(--black);
 }
