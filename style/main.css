@@ -83,3 +83,9 @@ main .movie_principal .box_buttons .button:hover {
   background-color: #FFF;
   color: var(--black);
 }
+
+section .box_movie {
+  height: 100%;
+  width: 100%;
+  display: block;
+}
