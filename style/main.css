@@ -50,6 +50,11 @@ main .movie_principal {
   align-items: flex-start;
 }
 
+main .movie_principal .container_movie {
+  margin-left: 15px;
+  width: 50%;
+}
+
 main .movie_principal .title {
   margin-top: 10%;
   font-size: 48px;
